@@ -14,5 +14,5 @@ I will make a youtube tutorial aswell as better instructions
 📄・License
 
  ・Educational purpose only and all your consequences caused by you actions is your responsibility
-  ・Selling this Free gen is forbidden
-  ・If you make a copy of this/or fork it, it must be open-source and have credits linking to this repo
+ ・Selling this Free gen is forbidden
+ ・If you make a copy of this/or fork it, it must be open-source and have credits linking to this repo
