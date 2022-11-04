@@ -1,6 +1,6 @@
 # JB_Nitro_Generator
 
-🔥 #Features
+🔥 Features
 
 ✔ Generates fast codes and checks it. ✔ very fast.
 
@@ -11,7 +11,7 @@
 > run run.bat
 I will make a youtube tutorial aswell as better instructions
 
-📄・#License
+📄・License
 
  ・Educational purpose only and all your consequences caused by you actions is your responsibility
   ・Selling this Free gen is forbidden
