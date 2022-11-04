@@ -1,0 +1,6 @@
+discord_webhook
+colored
+colorama
+numpy
+discord
+Fore
